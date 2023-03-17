@@ -1,0 +1,37 @@
+C:\Users\marti\SI_2023_lab1_216040>git log
+commit 127e83a145d1d16f8ec733d5d24288c9c6fc192d (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: martinmitev4 <martin.mitev.1@students.finki.ukim.mk>
+Date:   Thu Mar 16 19:00:20 2023 +0100
+
+    Fix method sumEvenNumbers
+
+commit e156454b9ec5f37cb409a28744943c948cb96803
+Merge: 0d4ea9e fefa44c
+Author: martinmitev4 <martin.mitev.1@students.finki.ukim.mk>
+Date:   Thu Mar 16 22:35:49 2023 +0100
+
+    Merge branch 'bug2'
+
+commit fefa44cc05d21b5b321ed65862a169f72a43b890 (origin/bug2, bug2)
+Author: martinmitev4 <martin.mitev.1@students.finki.ukim.mk>
+Date:   Thu Mar 16 18:59:26 2023 +0100
+
+     Fix wrong condition in filterOddNumbers
+
+commit 0d4ea9e08089bec2ee2dc5861a4b5530c50f80b0 (origin/bug1, bug1)
+Author: martinmitev4 <martin.mitev.1@students.finki.ukim.mk>
+Date:   Thu Mar 16 18:58:13 2023 +0100
+
+    Fix wrong loop for reading
+
+commit 81f1e050065114e73bcc3eb69fccf90c7e7208d4
+Author: martinmitev4 <martin.mitev.1@students.finki.ukim.mk>
+Date:   Thu Mar 16 18:53:44 2023 +0100
+
+    Add java class
+
+commit 900a8079e1f0c6ec25a1a84e15dae0fde166c8a8
+Author: martinmitev4 <martin.mitev.1@students.finki.ukim.mk>
+Date:   Thu Mar 16 18:52:21 2023 +0100
+
+    Initial commit
